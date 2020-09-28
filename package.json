@@ -1,0 +1,22 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "self-updating profile example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ww-tech/github-profile.git"
+  },
+  "author": "Mark Griffith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ww-tech/github-profile/issues"
+  },
+  "homepage": "https://github.com/ww-tech/github-profile#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
