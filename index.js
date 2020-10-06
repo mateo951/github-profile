@@ -5,7 +5,7 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 async function imageFetch() {
-    let image = await fetch("https://source.unsplash.com/random/300x200")
+    let image = await fetch("https://source.unsplash.com/random/400x200")
     return image.url
   }
 
