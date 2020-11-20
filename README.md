@@ -34,7 +34,7 @@ const Mark = {
   techCommunities:{    
                     engineer:"WW International",
                     volunteer:"CodeNation",
-                    mentor: "MarcyLab"
+                    mentor:"MarcyLab"
                   },
  challenge: "Currently prototyping a small level demo in Unreal end to end!"
 }
